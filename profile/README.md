@@ -1,8 +1,16 @@
 <div align="center">
 
-# PNK WORKS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pnkworks-horizontal-pink-dark-transparent.png">
+  <img src="assets/pnkworks-horizontal-pink-light-transparent.png" alt="PNK WORKS" width="240">
+</picture>
 
-**Websites for local businesses: fast, modern, and built to bring in customers.**
+**Build it. Brand it. Grow it.**
+
+Full-service digital agency for companies serious about growth. One senior team covering
+software development, design and marketing: no middlemen, no handoffs.
+
+Seniors only · 3 disciplines, 1 team · Response within 24 hours
 
 </div>
 
@@ -10,14 +18,15 @@
 
 ## What we do
 
-PNK Works designs and builds websites for small and local businesses. Each site is
-made for the way that business actually works: booking a haircut, reserving a
-table, finding the clinic's opening hours, or requesting a quote.
+- **Software development.** From concept to production-ready product: web apps, SaaS platforms,
+  APIs and mobile apps, built with modern, proven technologies and architected to scale with your business.
+- **Design.** Brand identity and product design that earns trust at first glance: interfaces
+  people enjoy using and visual identities that make your brand easy to remember.
+- **Marketing.** Growth systems that compound over time: SEO foundations, paid media and content
+  that turn the right visitors into loyal, paying customers.
 
-- **Custom design.** A site that looks like your business, not a template.
-- **Mobile first.** Most of your customers will find you on their phone.
-- **Fast and searchable.** Lightweight pages that load quickly and are easy for search engines to index.
-- **Easy to keep up to date.** Simple to update as your services, prices and hours change.
+Your developer, designer and marketer share the same conversation, so nothing gets lost
+between agencies.
 
 ## Industries
 
@@ -34,15 +43,22 @@ Don't see your industry? Every project starts from the same base, so we can buil
 
 ## How we work
 
-1. **Talk.** We learn about your business, your customers and what the site needs to do.
-2. **Demo.** We adapt a demo for your industry so you can see the direction early.
-3. **Build.** We make it yours: your content, brand, photos and features.
-4. **Launch.** We put it live and help you keep it running.
+1. **Discovery.** A focused kickoff to understand your business, audience and definition of success.
+2. **Strategy.** A clear roadmap across every discipline you need, with scope, timeline and budget
+   agreed upfront. You approve before we write a single line of code.
+3. **Build & launch.** Fast, iterative cycles with weekly check-ins. You review real progress in
+   staging, not just screenshots.
+4. **Grow.** Launch is the starting gun. We stay on to run marketing, monitor performance and
+   improve the product.
 
 ---
 
 <div align="center">
 
-Interested in a website for your business? Get in touch with PNK Works.
+**Start a project:** [pnkworks.com](https://www.pnkworks.com/#contact) · [info@pnkworks.com](mailto:info@pnkworks.com)
+
+Operating from the USA and North Macedonia, serving clients worldwide.
+
+[LinkedIn](https://www.linkedin.com/company/pnk-works) · [YouTube](https://www.youtube.com/@PNKWorks)
 
 </div>
